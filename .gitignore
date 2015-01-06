@@ -1,0 +1,7 @@
+.cache
+.classpath
+.settings
+.project
+target
+*.swp
+.scalastyle
