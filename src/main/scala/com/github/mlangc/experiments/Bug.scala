@@ -1,7 +1,7 @@
 package com.github.mlangc.experiments
 
 import _root_.scala.collection.immutable.BitSet
-import refactoring.test.scala.SomeObject
+import com.github.mlangc.experiments.scala.SomeObject
 
 package scala {
   object SomeObject
