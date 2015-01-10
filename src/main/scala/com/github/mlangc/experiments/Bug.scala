@@ -1,11 +1,9 @@
 package com.github.mlangc.experiments
 
-import test.MyType
+import test.MyClass
 
-package object test {
-  type MyType = Set[String]
+package test {
+  class MyClass
 }
 
-object Bug {
-  val x: MyType =  Set("a")
-}
+class Bug(x: MyClass)
