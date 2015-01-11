@@ -2,7 +2,7 @@
 *Repository for illustrating bugs, features and modifications of Scala-IDE and related projects*
 
 ## Summary
-The master branch represents only the skeleton for the actual content. Take a look at the existing branches.
+"Organize Imports" removes imports referenced from annotations.
 
 ## Usage
 Run "Organize Imports" on `com.github.mlangc.experiments.Bug`. Note that there are several tickets related to this issue already,
