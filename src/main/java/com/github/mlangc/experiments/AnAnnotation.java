@@ -1,5 +1,6 @@
 package com.github.mlangc.experiments;
 
 public @interface AnAnnotation {
-	Class<?> value();
+	Class<?> value1();
+	Class<?> value2();
 }
