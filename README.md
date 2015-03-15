@@ -2,7 +2,4 @@
 *Repository for illustrating bugs, features and modifications of Scala-IDE and related projects*
 
 ## Summary
-The master branch represents only the skeleton for the actual content. Take a look at the existing branches.
-
-## Usage
-The master branch represents only the skeleton for the actual content. Take a look at the existing branches.
+See [Ticket 1001815](https://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1001815-organize-imports-removes-an-import-referenced-inside-a-class-constructor#/activity/ticket:)
