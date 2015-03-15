@@ -2,7 +2,4 @@
 *Repository for illustrating bugs, features and modifications of Scala-IDE and related projects*
 
 ## Summary
-The master branch represents only the skeleton for the actual content. Take a look at the existing branches.
-
-## Usage
-The master branch represents only the skeleton for the actual content. Take a look at the existing branches.
+See [Ticket 1002403](https://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1002403-quick-fix--implement-foo--does-not-add-needed-imports#/activity/ticket:).
