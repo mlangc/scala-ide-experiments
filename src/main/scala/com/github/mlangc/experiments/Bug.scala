@@ -1,5 +1,4 @@
 package com.github.mlangc.experiments
 
-class Bug {
-
-}
+class Bug
+object Bug
