@@ -1,4 +1,4 @@
-package com.github.mlangc.experiments
+package p1
 
 object O {
   implicit def toX(s: String): X = ???
