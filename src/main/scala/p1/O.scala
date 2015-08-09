@@ -1,5 +1,7 @@
 package p1
 
 object O {
-  def ? : String = ???
+  implicit def toX(s: String): X = ???
 }
+
+class X
