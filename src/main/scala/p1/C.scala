@@ -1,4 +1,4 @@
-package com.github.mlangc.experiments
+package p1
 
 class C {
   import O._
