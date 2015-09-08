@@ -1,5 +1,5 @@
 package com.github.mlangc.experiments
 
-class Bug {
-
+case class Bug(i: Int = 1, j: Int = 2) {
+  def buggy = copy(j = i)
 }
