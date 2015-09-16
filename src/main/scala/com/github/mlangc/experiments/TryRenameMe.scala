@@ -1,6 +1,6 @@
 package com.github.mlangc.experiments
 
-object Bug {
+object TryRenameMe {
   object Listings {
     case class Info(plausiblePrices: Seq[(String, Double)] = Seq(), unplausiblePrices: Seq[(String, Double)] = Seq())
   }
@@ -13,8 +13,8 @@ object Bug {
       forNeighbours: Seq[RegionInfo] = Seq())
 }
 
-case class Bug(
+case class TryRenameMe(
     sqmPrice: Double,
     regionName: String,
     listingCategory: String,
-    listings: Bug.Listings)
+    listings: TryRenameMe.Listings)
