@@ -1,5 +1,8 @@
 package com.github.mlangc.experiments
 
-class Bug {
-
+trait T {
+  def f: Int
+}
+trait TT extends T {
+  def f = (1)
 }
