@@ -1,5 +1,9 @@
 package com.github.mlangc.experiments
 
-trait Bug {
-  def renameMe: Bug
+trait Bug1 {
+  def renameMe: Bug1
+}
+
+trait Bug2 {
+  def renameMe: Map[Int, Int]
 }
