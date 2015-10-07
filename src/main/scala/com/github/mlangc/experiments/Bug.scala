@@ -1,5 +1,9 @@
 package com.github.mlangc.experiments
 
-class Bug {
+package bugs {
+  class Bug
+}
 
+class Buggy {
+  val organizeImportsHere: Bug = ???
 }
