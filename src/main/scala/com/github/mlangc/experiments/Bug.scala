@@ -1,5 +1,17 @@
 package com.github.mlangc.experiments
 
-class Bug {
+object X extends App {
+  O().test.meth()
+}
 
+class C {
+  def meth(j: Int = 0) = j
+}
+
+class O {
+  def test: C = ???
+}
+
+object O {
+  def apply(): O = ???
 }
