@@ -1,5 +1,9 @@
 package com.github.mlangc.experiments
 
-class Bug {
+import java.util.Collections
 
+class Bug {
+  import Collections.emptyList
+
+  def test = emptyList
 }
