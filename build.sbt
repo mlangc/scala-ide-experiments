@@ -4,7 +4,7 @@ name := "scala-ide-experiments"
 
 version := "1.0"
 
-scalaVersion := "2.11.7"
+scalaVersion := "2.11.8"
 
 scalacOptions := Seq("-encoding", "utf8", "-target:jvm-1.8")
 
