@@ -1,5 +1,6 @@
 package com.github.mlangc.experiments
 
-class Bug {
-
+object Bug {
+  var _tryRenameMe = 0
+  _tryRenameMe = _tryRenameMe + 1
 }
