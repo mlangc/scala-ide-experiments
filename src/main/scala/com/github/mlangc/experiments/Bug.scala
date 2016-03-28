@@ -1,8 +1,5 @@
 package com.github.mlangc.experiments
 
-import org.junit.runner.RunWith
-
-import org.scalatest.junit.JUnitRunner
 import com.github.mlangc.experiments.test._
 
 /*
@@ -17,6 +14,5 @@ package test {
   }
 }
 
-@RunWith(classOf[JUnitRunner])
 @AnAnnotation(value1 = classOf[TryRenameMe], value2 = classOf[OrTryRenameMe], value3 = Constants.OrTryRenameMe)
 class Bug
