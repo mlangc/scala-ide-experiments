@@ -1,7 +1,9 @@
 .cache
+.cache-*
 .classpath
 .settings
 .project
 target
 *.swp
 .scalastyle
+/bin/

@@ -4,9 +4,9 @@ name := "scala-ide-experiments"
 
 version := "1.0"
 
-scalaVersion := "2.11.4"
+scalaVersion := "2.11.8"
 
-scalacOptions := Seq("-encoding", "utf8")
+scalacOptions := Seq("-encoding", "utf8", "-target:jvm-1.8")
 
 libraryDependencies += "junit" % "junit" % "4.12"
 
