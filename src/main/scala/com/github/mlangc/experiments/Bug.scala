@@ -1,8 +1,9 @@
 package com.github.mlangc.experiments
 
-import com.github.mlangc.experiments.SomeTypes.InnerType
+object SomeTypes {
+  class InnerClazz
+}
 
 class Bug {
-  val ic: InnerClass = ???
-  val it: InnerType = ???
+  val ic: InnerClazz = ???
 }
