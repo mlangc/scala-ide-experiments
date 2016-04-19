@@ -8,6 +8,8 @@ scalaVersion := "2.11.8"
 
 scalacOptions := Seq("-encoding", "utf8", "-target:jvm-1.8")
 
+libraryDependencies += "com.typesafe.play" %% "play-json" % "2.5.2"
+
 EclipseKeys.withSource := true
 
 EclipseKeys.createSrc := EclipseCreateSrc.Default + EclipseCreateSrc.Resource
