@@ -4,5 +4,4 @@ import com.github.mlangc.experiments.MoveMe
 
 class UseMoveClass {
   val use = new MoveMe
-
 }
