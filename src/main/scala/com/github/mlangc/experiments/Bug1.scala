@@ -1,5 +1,5 @@
 package com.github.mlangc.experiments
 
-class Bug { renameMe =>
+class Bug1 { renameMe =>
   def alias = renameMe
 }
