@@ -2,7 +2,7 @@ package com.github.mlangc.experiments
 
 package hoellen.feuer {
   trait Belze
-  trait Bub
+  trait /*(*/Bub/*)*/
 }
 
 import hoellen._
