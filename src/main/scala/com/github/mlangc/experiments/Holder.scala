@@ -1,4 +1,4 @@
-package com.github.mlangc.experiments.rename
+package com.github.mlangc.experiments
 
 object Holder {
   trait A
