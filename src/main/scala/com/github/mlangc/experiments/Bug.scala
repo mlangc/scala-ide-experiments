@@ -1,5 +1,7 @@
 package com.github.mlangc.experiments
 
-class Bug {
+import java.util
 
+class Bug {
+  val x = classOf[util.UUID]
 }
